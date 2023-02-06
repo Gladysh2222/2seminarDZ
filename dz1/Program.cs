@@ -6,6 +6,9 @@
  918 -> 1
  */
 
+ //Console.WriteLine("Введите трехзначное число: ");
+ //int number = Convert.ToInt32(Console.ReadLine());
+
  int GetNumber(string message)
  {
      Console.WriteLine(message);
